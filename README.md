@@ -1,6 +1,6 @@
 # Sentiment Analysis of Movie Reviews: A Comparison of Deep Learning Architectures and Embeddings
 
-By Louis Magowan, Aashrit Ahuja and Alberto Agudo.
+By Louis Magowan (@louismagowan), Aashrit Ahuja and Alberto Agudo (@alberto-agudo).
 
 A comparison of 80 combinations of deep learning models, embeddings, regularization and batch normalization layers for sentiment analysis on the Large Movie Reviews Dataset.
 
