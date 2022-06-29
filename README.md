@@ -2,7 +2,7 @@
 
 By Louis Magowan, Aashrit Ahuja and Alberto Agudo.
 
-A comparison of 80 cominations of deep learning models, embeddings, regularization and batch normalization for performance on the Large Movie Reviews Dataset.
+A comparison of 80 combinations of deep learning models, embeddings, regularization and batch normalization layers for sentiment analysis on the Large Movie Reviews Dataset.
 
 **1. What is the problem that you want to solve?** 
 
